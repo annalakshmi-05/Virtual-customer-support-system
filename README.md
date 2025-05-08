@@ -1,3 +1,5 @@
+The GitHub repository  https://github.com/annalakshmi-05/Virtual-customer-support-system  hosts a Python-based application designed to facilitate voice-based note-taking and memo management.
+
 Project Overview:
 
 The Virtual Customer Support System is an Al-driven platform designed to automate customer service interactions, improve response efficiency, and enhance customer satisfaction. The system acts as a 24/7 support assistant capable of handling a wide range of customer queries through text-based chat, email, or voice interfaces.
